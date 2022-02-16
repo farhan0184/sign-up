@@ -1,11 +1,17 @@
 .background-color{
-    background-image: linear-gradient(90deg,#5b0785,#750879);
+background-image: linear-gradient(45deg, #9e3777,#036666,#590a6d,#590a6d,#590a6d,#590a6d,#036666, #cf3895);
+/* background-image: linear-gradient(90deg, #9c9e0c,#036621,#376d30,#376d30,#376d30,#376d30,#9c9e0c,#036621); */
+
+    
 }
 .row-height{
     height: 100vh;
 }
 .height-btn{
     height: 80vh;
+}
+.height-btn-thanks{
+    height: 91vh;
 }
 .height-hr{
     margin-top: -2px;
